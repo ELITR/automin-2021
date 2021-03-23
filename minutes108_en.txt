@@ -1,0 +1,23 @@
+﻿Minuting – virtual coffee
+29/09/2020
+40 min
+
+Purpose of the meeting: To discuss evaluation measure for shared task and improve communication procedure with annotator
+
+•	[PERSON54] placed the coffee meeting link in.xz the google link to make suitable for all. 
+•	Document of Minuting annotation guidelines contains detials of manully corrected transcripts and minutes.
+•	Discussion of various platforms suitable for coffee meetings. [PERSON7]'s zoom link for faculty will be most suitable as it is not time bounded.
+•	The data collection procdure involves first sennding the ASR transcripts to the annotators and correcting the data along with the audio or video file via FileSender(service provided by university)
+•	The stage one involves this transcript annotation by listening to the audio and correcting the transcript. 
+•	The stage two involves writing the minutes and sending them back to [PERSON27]. 
+•	The original minutes is shared with annotators only if they ask for it otherwise usually it is not shared. These are data copy from google document ad it contains the orginal agenda of the meeting, which is crated by [PERSON7] or [PERSON42] before thee meeting and partially extended during or after the meeting.
+•	The original minutes have drawback that they do not contain some information or contains some extra information which was not discussed in the meeting. They are reliable source of information of meeting. Though they can be reformed by changing the presentation; hence forming minutes for meeting.
+•	The orginal minutes may or maynot be present for certain meeting. As we [PERSON27] tries to get it from the organizers but sometimes meeting might be very short such as one line(LSD book where they discuss the book and not detailise it anymore).
+•	The stratergy of communication with annotator needs to be improved. As until now [PERSON27] sends transcript and original minute to annotators and they respond through email with manually corrected ASR and the minute. Further [PERSON27] puts them in server. The idea proposed by [PERSON7] is to self-employ the annotator to push and pull the data through GitHub.
+•	[PERSON55] does not agree with the idea of communicating with the annotator via Github but prefers the manual communication.
+•	The alignment of transcript and minutes would probably help in the evaluation of minutes. 
+•	In shared task we need to specify whether we are manually or automatically evaluating the minutes.
+•	We might comeup with some measure using alignment otherwise we will use human evaluation such as readability and so on.
+•	[PERSON55] describes the data format needs meta data with brackets and in the summary keep bullets instead of dashes.
+•	[PERSON27] conveys that she has postpone the preparing of second basic sample until she discuss it with peter. If the annotation tool can work with the new samples or not.
+•	[PERSON55] suggest to annonymise the data before pushing it on Github.
