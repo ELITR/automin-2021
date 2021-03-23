@@ -1,0 +1,36 @@
+Date: 2020/10/13
+Attendees: [PERSON7], [PERSON27], [PERSON54], [PERSON55], [PERSON53]
+Purpose of meeting: Discussion on datasets for the shared task
+
+- [PERSON53]'s Visa update: she got an appointment at the embassy
+- Europarl Data is very different from the data we have
+- AMI corpus is quite different from own minuting corpus
+- Can include EuroParl data but not to invest time and money on creating the summmaries
+- [PERSON55] and [PERSON54] looked at the EuroParl transcripts and they are well-structured but the minutes are horrible, consists only names of meeting participants
+- Discussion on the size of the data for the shared task: 100 hours of English, 55 hours of Czech
+- Data is not sufficiently large, participants in the shared task can use it for fine-tuning or developement set
+- Discussion on experimental setup for the shared task (train, test, and development set)
+- [PERSON54] says that the data is very less
+- [PERSON54] says it depends on the task to anticipate the amount of data required, for some it is 19000 hours, for some it can be as low as 80 hours
+- There are no speech summarization tasks for long
+- Include EuroParl as a separate track for the shared task
+- Use transcripts and minutes from the EuroParl website
+- Discussion on the format of the parliament proceedings and minutes on the [PERSON57]website
+- Some minutes in the Europaen Parliament website are not self-sustained and points to some other hyperlinks; such minutes should be excluded
+- [PERSON7] proposes three tracks for the shared task: [PROJECT1] data track, EuroPral track, AMI and ICSI track
+- Discussion on how to package the Europarl dataset for minuting, summarization
+- Discussion on how to procure the data from the [ORGANIZATION7] website and prepare the dataset automatically
+- Would need a CS person to match the transcripts and minutes for the Europarl data
+- Minutes for Europarl that are there on the web are not useful
+- [PERSON55] proposes to use the Europarl transcripts but not the minutes, employ annotators to generate usable minutes. [PERSON7] worries that the data and task is too boring, hence the minutes won't be any better. He is apprehensive to invest money on annotation but instead interested to do so on programmers.
+- [PERSON7] opines that the Europarl meeting summarization corpus may be an useful resource
+- Invite participants to cross-train on CNN/Daily Mail, EuroParl and test on the shared task test set similar to WMT: constrained and unconstrained submissions
+- [PERSON54] can try to build the Europarl minuting dataset
+- [PERSON7] suggested [PERSON54] to talk to [PERSON9] for preparing the data as [PERSON9] is already engaged in preparing the speech data from EuroParl website
+- Discussions on how to automatically do the alignment between transcript-minute pairs in the Europarl dataset
+- The data format should look like the earlier basic samples format that [PERSON55] proposed: transcript begins and ends, immediately after that summary begins and ends
+- [PERSON7] asks [PERSON27] to talk to [PERSON57] who is working on TEITOK and developing a Czech parliament browser and has xperience with XML for preserving the original data.
+- [PERSON7] asks [PERSON27] to also talk to [PERSON58] on the XML format in which data should be stored
+- Discussion on speaker diarization in the transcripts
+- Discussion on re-organizing Europarl data and storage on the [ORGANIZATION2] server
+- In conclusion [PERSON54] will work on preparing the Europarl data and [PERSON27] will continue annotating the [PROJECT1] corpus with her annotators
