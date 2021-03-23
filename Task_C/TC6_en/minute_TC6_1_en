@@ -1,0 +1,28 @@
+
+Date: 2020/10/13
+Attendees: [PERSON7], [PERSON27], [PERSON54], [PERSON55], [PERSON53]
+Purpose of meeting: Including europarl transcripts and minutes.
+
+Summary of meeting:
+
+[PERSON27], [PERSON7], [PERSON54]
+- Discuss including of europarl transcripts and minutes.
+- Draws attention to differences from actual data and possibility to have this as a contrast of task.
+- Decision to include one separate track if europarl comes for free and if it is only matter of downloading some of the data and polishing it a little, no manual processing of that.
+- There should be done europarl minutes corpus preparation, the pairs of transcripts and minutes.
+- Agreed on one shared task assignment with 3 underlying data sets, where the first test set would be own corpus, second test set would be europarl meetings and transcripts and the third would be AMI and ICSI.
+
+[PERSON27], [PERSON7], [PERSON54]
+- Recommendation to talk with [PERSON58] in case of diarization.
+- [PERSON54] will download and prepare the corpus, reorganize that into the directory structure according to the dates and names of the sessions and easily complemented with the minutes.
+
+Conclusions
+- Include europarl transcripts and minutes and work with that as much automatically as possible.
+- [PERSON54] will work with the data.
+- [PERSON27] will will continue annotate data with annotators.
+
+
+
+
+
+Minutes submitted by:[ANNOTATOR2]
