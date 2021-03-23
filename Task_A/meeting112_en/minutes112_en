@@ -1,0 +1,47 @@
+Date: 5.10.2020
+Attendees: [PERSON27], [PERSON55], [PERSON53], [PERSON54], [PERSON56]
+
+- [PERSON27] wants to discuss two things: evaluations and preparation for evaluation, shared task imitation
+- [PERSON53] is working on automatic measures for evaluation
+- [PERSON54] can report some progress on automatic evaluation by the end of the month
+- [PERSON55] prepared a human evaluation protocol document which is to be used by annotators to evaluate the minutes
+- [PERSON7] has shared a paper which can be referred to mimic the human evaluation
+- [PERSON55] opines that the hard task for the annotators would be to read the two minutes and rate those against the evaluation criteria. Rest is a formula that needs to be computed based on the annotators ratings
+- [PERSON27] asks [PERSON53] to create these guidelines
+- [PERSON27] discusses the strategy to imitate the shared task. The dry run can oly happen when the evaluation guidelines are ready
+- [PERSON54] formulated Task A and Task B for the shared task to distinguish between two minutes from the same meeting
+- Evalutaion for Task A and B are easier and hence should be definitely included in the shared task
+- [PERSON54] discusses the content of the shared task proposal
+- Interspeech deadline on November 2020 for which [PERSON54] proposes to submit the proposal
+- Anonymization of the data would be required before trial data release
+- [PERSON54] asks [PERSON27] to share the link of the dataset statistics
+- Discussion on how much data to prepare for the shared task
+- [PERSON55] thinks that the long transcripts should be splitted to create more instances while [PERSON53] and [PERSON54] do not agree
+- [PERSON27] thinks that the minuting data we have are unstructured and may not be appealing to the business companies
+- [PERSON27] thinks to look at the European Parliament data
+- [PERSON54] asks to [PERSON27] about the progress on Ethics Control
+- [PERSON27] asks [PERSON54] to look at the consent form together
+- [PERSON54] asks how to ensure that the data that they prepaare are of good quality?
+- [PERSON54] asks for a schematic diagram of how the data is organized on the server
+- Discussion on data organization, Github won't have the recordings
+- [PERSON54] proposes not to use the original minutes as part of the shared task
+- Next step is to come up with trial, train, validation, test sets 
+- First release the trial data and after a month probably release the training data
+- Apply the manual evaluation next week for a chosen meeting
+- [PERSON54] demands some more clarity on [PERSON2]'s tool
+- Next step is automatic evaluation of the minutes/summaries, use semantic metrics to evaluate
+- [PERSON54] wants to discuss the submission platform, hiring somebody for the shared task
+- Having a researcher experienced in summarization would be great for the proposal
+- Some system runs to be submitted from the current group in the shared task, invite other nearby Czech universities for senior faculty!
+- [PERSON27] proposes to include the Czech data in the shared task
+- [PERSON54] is collaborating with [PERSON36] and [PERSON45] to draft the proposal
+- [PERSON54] asks [PERSON27] about the status of her annotators. Probably 5 are working out of 20, 2 of them are working on Czech
+- [PERSON27] discusses the speed of annotations, it's very subjective and depends on the speed, time of the annotators
+- It's a good idea to gather large-scale data from European Parliament for the shared task
+- [PERSON55] thinks that more data will be better
+- [ORGANIZATION7] meetings are very long; 8 hours
+- [PERSON55] thinks that longer meetings should be splitted
+- [PERSON54] proposes to discuss data requirement, statistics for each of the tasks and data organization the next day
+
+Minutes submitted by:[PERSON54]
+
