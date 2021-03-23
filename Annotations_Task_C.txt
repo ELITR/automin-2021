@@ -1,0 +1,13 @@
+Minute1          Minute2           Both minutes belong to same meeting?
+
+minute_TC1_1_en  minute_TC1_2_en   False
+
+minute_TC2_1_en  minute_TC2_2_en   True
+
+minute_TC3_1_en  minute_TC3_2_en   False
+
+minute_TC4_1_en  minute_TC4_2_en   True
+
+minute_TC5_1_en  minute_TC5_2_en   False
+
+minute_TC6_1_en  minute_TC6_2_en   False
