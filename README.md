@@ -1,5 +1,5 @@
 # Automin-2021
-The trial data for the shared task is available in the following Github repository. The data folder is divided for one main task(Task_A) and two subsidiary tasks(TASK_B and TASK_C). The subsidiary tasks are optional.
+The trial data for the shared task is available in the following Github repository. The participants are only expected to generate the minutes in some form of bulleted points. They may ignore the header and footer in the minutes. The data folder is divided for one main task(Task_A) and two subsidiary tasks(TASK_B and TASK_C). The subsidiary tasks are optional.
 
 1. Main Task A: The main task consists of automatically creating minutes from multiparty meeting transcripts. The generated minute would be evaluated both via automatic and manual metrics.
 2. Task B: Given a pair of meeting transcript and minute, the task is to identify whether the minute belongs to the transcript. During our data preparation from meetings on similar topics, we found that this task could be challenging given the similarity in various named-entities.
